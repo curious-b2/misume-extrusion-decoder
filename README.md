@@ -136,9 +136,10 @@ uv run ruff check .
 ## Reference
 
 Based on MISUMI documentation:
-- [Alterations for Aluminum Extrusions](https://us.misumi-ec.com/pdf/fa/2012/p2_0679.pdf)
-- [Fastening Location Wrench Access Hole Alterations](https://us.misumi-ec.com/pdf/fa/2012/p2_0683.pdf)
-- [Wrench Hole Alterations](https://us.misumi-ec.com/pdf/fa/2012/p2_0685.pdf)
-- [Counterboring](https://us.misumi-ec.com/pdf/fa/2012/p2_0687.pdf)
-- [Blind Joints Dedicated Holes](https://us.misumi-ec.com/pdf/fa/2012/p2_0688.pdf, p2_0689.pdf, p2_0690.pdf, p2_0691.pdf)
-- [Special Extrusions End Plates Alterations](https://us.misumi-ec.com/pdf/fa/2012/p2_0692.pdf)
+- Overview of Aluminum Extrusion Alterations: [p679-680](https://us.misumi-ec.com/pdf/fa/2012/p2_0679.pdf)
+- Tapping & Extrusion Cuts: [p681-682](https://us.misumi-ec.com/pdf/fa/2012/p2_0681.pdf)
+- Fastening Location Wrench Access Hole Alterations: [p683-684](https://us.misumi-ec.com/pdf/fa/2012/p2_0683.pdf)
+- Wrench Hole Alterations: [p685-686](https://us.misumi-ec.com/pdf/fa/2012/p2_0685.pdf)
+- Counterboring & D-type Hole Alterations: [p687-488](https://us.misumi-ec.com/pdf/fa/2012/p2_0687.pdf)
+- S type and M type Hole Alterations: [p688-689](https://us.misumi-ec.com/pdf/fa/2012/p2_0689.pdf)
+- L type Hole Alterations, Other Alterations: [p691-692](https://us.misumi-ec.com/pdf/fa/2012/p2_0691.pdf)
