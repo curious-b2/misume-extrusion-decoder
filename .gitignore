@@ -19,3 +19,6 @@ htmlcov/
 .idea/
 *.swp
 *.swo
+
+voron_trident_reference/
+misumi reference/
